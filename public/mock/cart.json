@@ -1,0 +1,46 @@
+{
+  "code":0,
+  "data":[
+    {
+      "productId": "001",
+      "productName": "小米移动电源3",
+      "productPrice": 99,
+      "productCount": 3,
+      "productImage": "1.jpg",
+      "checked":false
+    },
+    {
+      "productId": "002",
+      "productName": "小米降噪耳机Type-C版",
+      "productPrice": 139,
+      "productCount": 1,
+      "productImage": "2.jpg",
+      "checked": false
+    },
+    {
+      "productId": "003",
+      "productName": "米家电磁炉A1",
+      "productPrice": 129,
+      "productCount": 1,
+      "productImage": "3.jpg",
+      "checked": true
+    },
+    {
+      "productId": "004",
+      "productName": "米家电暖器 温控版",
+      "productPrice": 279,
+      "productCount": 1,
+      "productImage": "4.jpg",
+      "checked": false
+    },
+    {
+      "productId": "005",
+      "productName": "小米手环4 NFC版",
+      "productPrice": 209,
+      "productCount": 3,
+      "productImage": "5.png",
+      "checked": false
+    }
+  ],
+  "message":""
+}
